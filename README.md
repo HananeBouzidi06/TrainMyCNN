@@ -22,6 +22,8 @@ An interactive CNN image classification application.
 - JavaScript
 - TensorFlow.js
 - Chart.js
+## Lien du projet :
+https://trainmycnn.vercel.app/
 
 ## Developed by
 Hanane Bouzidi
